@@ -61,3 +61,4 @@ function doRecipe(item) {
 }
 
 job.forEach(doRecipe);
+moveTo(0.5,0.5);
