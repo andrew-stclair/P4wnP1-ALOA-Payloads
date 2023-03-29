@@ -40,12 +40,12 @@ var recipes = {
     focus: {
         x: 0.717,
         y: 0.320,
-        delay: 0
+        delay: 60000
     },
     thunderbrew: {
         x: 0.790,
         y: 0.320,
-        delay: 0
+        delay: 90000
     }
 }
 
